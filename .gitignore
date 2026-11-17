@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.py[cod]
+user_data/wallet.json
+user_data/wallet.json.tmp
+user_data/audio/
